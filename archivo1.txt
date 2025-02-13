@@ -1,2 +1,6 @@
 "Archivo en Version2.1 - 1" 
-"Modificaci¢n en Version2.3" 
+<<<<<<< HEAD
+"Cambio en Version2.3" 
+=======
+"Cambio en Version2.1" 
+>>>>>>> Version2.1
